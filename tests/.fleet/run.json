@@ -1,0 +1,9 @@
+{
+    "configurations": [
+        {
+            "name": "Run My Python",
+            "type": "python",
+            "arguments": ["test1.py"],
+        },
+    ],
+}
